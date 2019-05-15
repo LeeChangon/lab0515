@@ -25,3 +25,7 @@ printf ("Hello");
 ## 링크
 
 [네이버](http://naver.com)
+
+## 이미지
+
+![이미지](https://github.com/LeeChangon/lab0515/blob/master/image.jpg)
